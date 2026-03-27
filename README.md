@@ -1,1 +1,1 @@
-# APP02
+# App-MiniProject02
